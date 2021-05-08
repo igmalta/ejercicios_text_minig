@@ -1,2 +1,2 @@
-# ejercicios_text_minig
-Se abordan disitntos métodos de text mining
+# Ejercicios de text mining
+Se abordan disitintos métodos de text mining.
